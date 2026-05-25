@@ -1,1 +1,3 @@
+store-fe.bblcdn.eu
+store.bblcdn.eu
 www.henkel.de

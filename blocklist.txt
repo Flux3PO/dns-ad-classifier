@@ -1,7 +1,14 @@
+api.helloagain.at
+api.powercalc.nl
 charts3.equitystory.com
+collector.sp.hello-again.com
+health.helloagain.at
 servicecommerce.lavazza.com
+sp-es1.tripax.de
 store-fe.bblcdn.eu
 store.bblcdn.eu
+www.bwi.de
 www.eqs.com
+www.fitx.de
 www.henkel.de
 www.lavazza.de

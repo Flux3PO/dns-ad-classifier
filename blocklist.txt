@@ -1,8 +1,10 @@
+analytics.awakening.wiki
 api.helloagain.at
 api.powercalc.nl
 charts3.equitystory.com
 collector.sp.hello-again.com
 health.helloagain.at
+media.awakening.wiki
 servicecommerce.lavazza.com
 sp-es1.tripax.de
 store-fe.bblcdn.eu

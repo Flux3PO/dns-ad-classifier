@@ -1,3 +1,6 @@
+charts3.equitystory.com
+servicecommerce.lavazza.com
 store-fe.bblcdn.eu
 store.bblcdn.eu
 www.henkel.de
+www.lavazza.de

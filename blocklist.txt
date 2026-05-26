@@ -1,6 +1,7 @@
 analytics.awakening.wiki
 api.helloagain.at
 api.powercalc.nl
+cdn.mapetr.moe
 charts3.equitystory.com
 collector.sp.hello-again.com
 health.helloagain.at
@@ -14,4 +15,5 @@ www.bwi.de
 www.eqs.com
 www.fitx.de
 www.henkel.de
+www.kyauandalbert.com
 www.lavazza.de

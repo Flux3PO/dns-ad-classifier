@@ -4,6 +4,7 @@ api.powercalc.nl
 cdn.mapetr.moe
 charts3.equitystory.com
 collector.sp.hello-again.com
+creativecommons.tankerkoenig.de
 health.helloagain.at
 media.awakening.wiki
 next.holzschneider.net

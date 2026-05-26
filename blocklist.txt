@@ -1,4 +1,5 @@
 analytics.awakening.wiki
+api.c24.de
 api.helloagain.at
 api.powercalc.nl
 cdn.mapetr.moe

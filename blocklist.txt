@@ -23,6 +23,7 @@ playout.revenuereel.com
 servicecommerce.lavazza.com
 smtpproxy1-mn1.magnews.net
 smtpproxy2-mn1.magnews.net
+snowflake.freehaven.net
 sp-es1.tripax.de
 static.revenuereel.com
 store-fe.bblcdn.eu

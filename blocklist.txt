@@ -12,6 +12,7 @@ servicecommerce.lavazza.com
 sp-es1.tripax.de
 store-fe.bblcdn.eu
 store.bblcdn.eu
+thumbnail.getalltool.com
 www.bwi.de
 www.eqs.com
 www.fitx.de

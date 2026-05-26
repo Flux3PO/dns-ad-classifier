@@ -13,6 +13,7 @@ creativecommons.tankerkoenig.de
 de.staticfiles.at
 download.revenuereel.com
 health.helloagain.at
+holzschneider.net
 i.ds.at
 infotainment.movato.de
 media.awakening.wiki
@@ -20,6 +21,8 @@ next.holzschneider.net
 ondemand.revenuereel.com
 playout.revenuereel.com
 servicecommerce.lavazza.com
+smtpproxy1-mn1.magnews.net
+smtpproxy2-mn1.magnews.net
 sp-es1.tripax.de
 static.revenuereel.com
 store-fe.bblcdn.eu

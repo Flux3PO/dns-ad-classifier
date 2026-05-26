@@ -2,11 +2,13 @@ analytics.awakening.wiki
 api.c24.de
 api.helloagain.at
 api.powercalc.nl
+app.ryviu.io
 b.staticfiles.at
 capi.ds.at
 cdn.mapetr.moe
 charts3.equitystory.com
 collector.sp.hello-again.com
+connect.ekomi.de
 creativecommons.tankerkoenig.de
 de.staticfiles.at
 download.revenuereel.com

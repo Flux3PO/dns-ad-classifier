@@ -1,2 +1,1 @@
-awakening.wiki
 fritz-regex-app.k8s.eu.codecreationlabs.cloud

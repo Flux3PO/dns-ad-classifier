@@ -5,6 +5,7 @@ charts3.equitystory.com
 collector.sp.hello-again.com
 health.helloagain.at
 media.awakening.wiki
+next.holzschneider.net
 servicecommerce.lavazza.com
 sp-es1.tripax.de
 store-fe.bblcdn.eu

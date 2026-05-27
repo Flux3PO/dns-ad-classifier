@@ -1,5 +1,3 @@
 analytics.awakening.wiki
 api.powercalc.nl
-integrations.superbackend.io
 newsletter.openhomefoundation.org
-superpowers.superbackend.io

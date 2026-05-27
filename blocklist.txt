@@ -1,3 +1,2 @@
 analytics.awakening.wiki
 api.powercalc.nl
-cdn.mapetr.moe

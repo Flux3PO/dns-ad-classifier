@@ -1,4 +1,9 @@
 analytics.awakening.wiki
+api.powercalc.nl
 integrations.superbackend.io
+servicecommerce.lavazza.com
 static-assets.superbackend.io
 superpowers.superbackend.io
+www.cosmic-gate.de
+www.googlewatchblog.de
+www.kyauandalbert.com

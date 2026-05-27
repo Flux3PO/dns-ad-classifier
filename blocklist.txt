@@ -1,7 +1,5 @@
 analytics.awakening.wiki
 api.powercalc.nl
 integrations.superbackend.io
-push.search.is24.de
-servicecommerce.lavazza.com
-static-assets.superbackend.io
+newsletter.openhomefoundation.org
 superpowers.superbackend.io

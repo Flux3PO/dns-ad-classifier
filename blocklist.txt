@@ -1,4 +1,5 @@
 analytics.awakening.wiki
 api.powercalc.nl
 assets.adobedtm.com
+frontend-tracking-infra-service.services.dmtech.com
 telecomitalia.tt.omtrdc.net

@@ -1,3 +1,1 @@
 cdn.mapetr.moe
-integrations.superbackend.io
-superpowers.superbackend.io

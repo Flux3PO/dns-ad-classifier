@@ -1,3 +1,4 @@
+cdn.mapetr.moe
 fritz-regex-app.k8s.eu.codecreationlabs.cloud
 integrations.superbackend.io
 superpowers.superbackend.io

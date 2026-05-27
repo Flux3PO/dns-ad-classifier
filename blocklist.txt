@@ -3,4 +3,5 @@ api.cooladata.com
 api.powercalc.nl
 assets.adobedtm.com
 frontend-tracking-infra-service.services.dmtech.com
+log32-normal-useastred.tiktokv.eu
 telecomitalia.tt.omtrdc.net

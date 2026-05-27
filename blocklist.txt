@@ -1,1 +1,4 @@
 analytics.awakening.wiki
+integrations.superbackend.io
+static-assets.superbackend.io
+superpowers.superbackend.io

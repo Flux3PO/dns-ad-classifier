@@ -5,6 +5,3 @@ push.search.is24.de
 servicecommerce.lavazza.com
 static-assets.superbackend.io
 superpowers.superbackend.io
-www.cosmic-gate.de
-www.googlewatchblog.de
-www.kyauandalbert.com

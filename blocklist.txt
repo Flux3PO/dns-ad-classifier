@@ -5,5 +5,6 @@ assets.adobedtm.com
 frontend-tracking-infra-service.services.dmtech.com
 log32-normal-useastred.tiktokv.eu
 phw5z4ko5b.trkcliq.com
+reqhfg-cdn-settings.appsflyersdk.com
 rtlog16-normal-useastred.tiktokv.eu
 telecomitalia.tt.omtrdc.net

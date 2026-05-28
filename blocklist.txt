@@ -4,6 +4,7 @@ api.powercalc.nl
 assets.adobedtm.com
 frontend-tracking-infra-service.services.dmtech.com
 log32-normal-useastred.tiktokv.eu
+mon-boot.tiktokv.com
 mon16-normal-useastred.tiktokv.eu
 phw5z4ko5b.trkcliq.com
 reqhfg-cdn-settings.appsflyersdk.com

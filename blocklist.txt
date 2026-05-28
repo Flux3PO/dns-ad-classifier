@@ -9,3 +9,4 @@ reqhfg-cdn-settings.appsflyersdk.com
 reqhfg-launches.appsflyersdk.com
 rtlog16-normal-useastred.tiktokv.eu
 telecomitalia.tt.omtrdc.net
+vast.zefrdata.com

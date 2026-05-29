@@ -20,6 +20,8 @@ log32-normal-useastred.tiktokv.eu
 mail.perbit-job.de
 mon-boot.tiktokv.com
 mon16-normal-useastred.tiktokv.eu
+mx.capitar.com
+nodes-spf.node.capitar.com
 phw5z4ko5b.trkcliq.com
 playout.revenuereel.com
 production.brandsarelive.com

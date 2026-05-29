@@ -3,8 +3,11 @@ api.cooladata.com
 api.powercalc.nl
 app.ryviu.io
 assets.adobedtm.com
+c.ba-content.de
+cache.target-ad.com
 cdn.nexx360-static.io
 clientside.datakojak.com
+d.ba-content.de
 frontend-tracking-infra-service.services.dmtech.com
 log32-normal-useastred.tiktokv.eu
 mail.perbit-job.de
@@ -17,6 +20,7 @@ reqhfg-cdn-settings.appsflyersdk.com
 reqhfg-launches.appsflyersdk.com
 rtlog16-normal-useastred.tiktokv.eu
 static.revenuereel.com
+t2.ba-content.de
 telecomitalia.tt.omtrdc.net
 thumbnail.getalltool.com
 ugattribution16-normal-useastred.tiktokv.eu

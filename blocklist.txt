@@ -1,3 +1,4 @@
+analytics.audio.one
 analytics.awakening.wiki
 api.c24.de
 api.cooladata.com
@@ -7,6 +8,7 @@ assets.adobedtm.com
 ba-content.de
 c.ba-content.de
 cache.target-ad.com
+cdn.brandsarelive.com
 cdn.c24.de
 cdn.nexx360-static.io
 clientside.datakojak.com
@@ -19,6 +21,7 @@ mon-boot.tiktokv.com
 mon16-normal-useastred.tiktokv.eu
 phw5z4ko5b.trkcliq.com
 playout.revenuereel.com
+production.brandsarelive.com
 query.reachit.network
 reqhfg-cdn-settings.appsflyersdk.com
 reqhfg-launches.appsflyersdk.com
@@ -34,4 +37,6 @@ ugattribution16-normal-useastred.tiktokv.eu
 uim.tifbs.net
 uin.c24.de
 vast.zefrdata.com
+websocket.audio.one
 www.ba-content.de
+www.radioduisburg.de

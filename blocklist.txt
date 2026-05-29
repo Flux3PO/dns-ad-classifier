@@ -28,6 +28,7 @@ reqhfg-cdn-settings.appsflyersdk.com
 reqhfg-launches.appsflyersdk.com
 rtlog16-normal-useastred.tiktokv.eu
 sentry.c24.de
+snowflake.freehaven.net
 static.revenuereel.com
 statistics.c24.de
 stt-rt.soniox.com

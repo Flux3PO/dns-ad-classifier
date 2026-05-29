@@ -17,6 +17,8 @@ clientside.datakojak.com
 d.ba-content.de
 frontend-tracking-infra-service.services.dmtech.com
 grzeng.rosselcdn.net
+i.wfcdn.de
+j.wfcdn.de
 log32-normal-useastred.tiktokv.eu
 mail.host-pointer.site
 mail.perbit-job.de
@@ -31,6 +33,7 @@ query.reachit.network
 reqhfg-cdn-settings.appsflyersdk.com
 reqhfg-launches.appsflyersdk.com
 rtlog16-normal-useastred.tiktokv.eu
+scr.wfcdn.de
 sentry.c24.de
 snowflake.freehaven.net
 static.revenuereel.com

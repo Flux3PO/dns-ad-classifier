@@ -25,6 +25,7 @@ reqhfg-launches.appsflyersdk.com
 rtlog16-normal-useastred.tiktokv.eu
 sentry.c24.de
 static.revenuereel.com
+statistics.c24.de
 stt-rt.soniox.com
 t2.ba-content.de
 telecomitalia.tt.omtrdc.net

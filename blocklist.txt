@@ -7,6 +7,7 @@ cdn.nexx360-static.io
 clientside.datakojak.com
 frontend-tracking-infra-service.services.dmtech.com
 log32-normal-useastred.tiktokv.eu
+mail.perbit-job.de
 mon-boot.tiktokv.com
 mon16-normal-useastred.tiktokv.eu
 phw5z4ko5b.trkcliq.com

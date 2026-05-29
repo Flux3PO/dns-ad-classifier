@@ -3,6 +3,7 @@ analytics.awakening.wiki
 api.c24.de
 api.cooladata.com
 api.powercalc.nl
+api2.tozelabs.com
 app.abfallplus.de
 app.ryviu.io
 assets.adobedtm.com

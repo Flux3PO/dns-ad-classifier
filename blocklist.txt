@@ -17,6 +17,7 @@ d.ba-content.de
 frontend-tracking-infra-service.services.dmtech.com
 grzeng.rosselcdn.net
 log32-normal-useastred.tiktokv.eu
+mail.host-pointer.site
 mail.perbit-job.de
 mon-boot.tiktokv.com
 mon16-normal-useastred.tiktokv.eu

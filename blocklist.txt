@@ -1,10 +1,12 @@
 analytics.awakening.wiki
+api.c24.de
 api.cooladata.com
 api.powercalc.nl
 app.ryviu.io
 assets.adobedtm.com
 c.ba-content.de
 cache.target-ad.com
+cdn.c24.de
 cdn.nexx360-static.io
 clientside.datakojak.com
 d.ba-content.de
@@ -20,10 +22,13 @@ query.reachit.network
 reqhfg-cdn-settings.appsflyersdk.com
 reqhfg-launches.appsflyersdk.com
 rtlog16-normal-useastred.tiktokv.eu
+sentry.c24.de
 static.revenuereel.com
+stt-rt.soniox.com
 t2.ba-content.de
 telecomitalia.tt.omtrdc.net
 thumbnail.getalltool.com
 ugattribution16-normal-useastred.tiktokv.eu
 uim.tifbs.net
+uin.c24.de
 vast.zefrdata.com

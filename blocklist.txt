@@ -4,6 +4,7 @@ api.cooladata.com
 api.powercalc.nl
 app.ryviu.io
 assets.adobedtm.com
+ba-content.de
 c.ba-content.de
 cache.target-ad.com
 cdn.c24.de
@@ -32,3 +33,4 @@ ugattribution16-normal-useastred.tiktokv.eu
 uim.tifbs.net
 uin.c24.de
 vast.zefrdata.com
+www.ba-content.de

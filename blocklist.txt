@@ -27,6 +27,7 @@ log32-normal-useastred.tiktokv.eu
 login.ihr-impressum.de
 mail.host-pointer.site
 mail.perbit-job.de
+matomo.raetselfabrik.de
 mon-boot.tiktokv.com
 mon16-normal-useastred.tiktokv.eu
 mx.capitar.com
@@ -45,6 +46,7 @@ scr.wfcdn.de
 sentry.c24.de
 snowflake.freehaven.net
 sp.danzz.ch
+static-weekli.net
 static.revenuereel.com
 statistics.c24.de
 stt-rt.soniox.com

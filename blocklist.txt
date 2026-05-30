@@ -36,8 +36,10 @@ nzz-assets.static-nzz.ch
 nzz-q-prod2.static-nzz.ch
 origin.pfultd.com
 ovhv60.twincdn.com
+ovhv63.twincdn.com
 ovhv66.twincdn.com
 ovhv67.twincdn.com
+ovhv68.twincdn.com
 ovhv72.twincdn.com
 ovhv83.twincdn.com
 phw5z4ko5b.trkcliq.com

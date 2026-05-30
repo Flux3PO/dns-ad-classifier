@@ -35,9 +35,15 @@ nodes-spf.node.capitar.com
 nzz-assets.static-nzz.ch
 nzz-q-prod2.static-nzz.ch
 origin.pfultd.com
+ovhv60.twincdn.com
+ovhv66.twincdn.com
+ovhv67.twincdn.com
+ovhv72.twincdn.com
+ovhv83.twincdn.com
 phw5z4ko5b.trkcliq.com
 playout.revenuereel.com
 production.brandsarelive.com
+pushpad.xyz
 query.reachit.network
 reqhfg-cdn-settings.appsflyersdk.com
 reqhfg-launches.appsflyersdk.com
@@ -48,6 +54,7 @@ snowflake.freehaven.net
 sp.danzz.ch
 static-weekli.net
 static.revenuereel.com
+static.twincdn.com
 statistics.c24.de
 stt-rt.soniox.com
 t2.ba-content.de

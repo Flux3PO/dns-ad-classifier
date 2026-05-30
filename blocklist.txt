@@ -48,4 +48,5 @@ uin.c24.de
 vast.zefrdata.com
 websocket.audio.one
 www.ba-content.de
+www.gosimatbrasil.com.br
 www.radioduisburg.de

@@ -14,6 +14,8 @@ cache.target-ad.com
 cdn.brandsarelive.com
 cdn.c24.de
 cdn.nexx360-static.io
+cdn.occ-app.com
+cdn.recurringo.com
 clientside.datakojak.com
 d.ba-content.de
 frontend-tracking-infra-service.services.dmtech.com
@@ -22,6 +24,7 @@ grzeng.rosselcdn.net
 i.wfcdn.de
 j.wfcdn.de
 log32-normal-useastred.tiktokv.eu
+login.ihr-impressum.de
 mail.host-pointer.site
 mail.perbit-job.de
 mon-boot.tiktokv.com
@@ -47,6 +50,7 @@ statistics.c24.de
 stt-rt.soniox.com
 t2.ba-content.de
 telecomitalia.tt.omtrdc.net
+textify-cdn.com
 thumbnail.getalltool.com
 ugattribution16-normal-useastred.tiktokv.eu
 uim.tifbs.net

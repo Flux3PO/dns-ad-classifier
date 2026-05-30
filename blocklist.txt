@@ -17,6 +17,7 @@ cdn.nexx360-static.io
 clientside.datakojak.com
 d.ba-content.de
 frontend-tracking-infra-service.services.dmtech.com
+go.airship.eu
 grzeng.rosselcdn.net
 i.wfcdn.de
 j.wfcdn.de

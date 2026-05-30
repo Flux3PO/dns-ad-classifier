@@ -29,6 +29,7 @@ mx.capitar.com
 nodes-spf.node.capitar.com
 nzz-assets.static-nzz.ch
 nzz-q-prod2.static-nzz.ch
+origin.pfultd.com
 phw5z4ko5b.trkcliq.com
 playout.revenuereel.com
 production.brandsarelive.com

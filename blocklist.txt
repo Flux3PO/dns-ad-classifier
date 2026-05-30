@@ -7,6 +7,7 @@ api2.tozelabs.com
 app.abfallplus.de
 app.ryviu.io
 assets.adobedtm.com
+assets.static-nzz.ch
 ba-content.de
 c.ba-content.de
 cache.target-ad.com
@@ -26,6 +27,8 @@ mon-boot.tiktokv.com
 mon16-normal-useastred.tiktokv.eu
 mx.capitar.com
 nodes-spf.node.capitar.com
+nzz-assets.static-nzz.ch
+nzz-q-prod2.static-nzz.ch
 phw5z4ko5b.trkcliq.com
 playout.revenuereel.com
 production.brandsarelive.com
@@ -36,6 +39,7 @@ rtlog16-normal-useastred.tiktokv.eu
 scr.wfcdn.de
 sentry.c24.de
 snowflake.freehaven.net
+sp.danzz.ch
 static.revenuereel.com
 statistics.c24.de
 stt-rt.soniox.com
